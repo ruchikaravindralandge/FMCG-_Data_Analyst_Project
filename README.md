@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/12e68022-c97a-4ef7-ab26-87cdbaa343d1)# FMCG Analytics Project
+# FMCG Analytics Project
 
 ## Overview
    This project provides an in-depth analysis of FMCG data to derive actionable insights and evaluate key performance indicators (KPIs) essential for strategic decision-making in the Sales sector. The dataset encompasses sales data files detailing Store Manager,sales,fiscal year ,etc. Analyses were conducted using Excel, Power BI, Tableau, and MySQL to deliver comprehensive visualizations and data-driven recommendations.
@@ -50,7 +50,7 @@ View Tableau Dashboard
 
 ## Key Insights
 
-Total Sales: Reflects overall revenue performance. A decline may indicate operational inefficiencies, low demand, or market competition.
+1. Total Sales: Reflects overall revenue performance. A decline may indicate operational inefficiencies, low demand, or market competition.
      
 2. Store Wise Sales: Identifies high- and low-performing store locations.
      
