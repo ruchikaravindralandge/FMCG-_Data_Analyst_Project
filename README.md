@@ -39,15 +39,6 @@ To ensure the integrity and reliability of the analysis, the following data clea
 
 The project includes comprehensive dashboards created in various tools, each visualizing key metrics and insights from the analysis.
 
-### Excel Dashboard
-View Excel Dashboard
-### Power BI Dashboard
-View Power BI Dashboard
-### SQL Queries
-View SQL Queries
-### Tableau Dashboard
-View Tableau Dashboard
-
 ## Key Insights
 
 1. Total Sales: Reflects overall revenue performance. A decline may indicate operational inefficiencies, low demand, or market competition.
